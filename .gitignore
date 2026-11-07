@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures
+.externalNativeBuild
+.cxx
+# Firebase config and service-account keys are private: never commit them
+app/google-services.json
+tools/service-account*.json
+tools/.venv/
+__pycache__/
